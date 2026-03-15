@@ -1,5 +1,3 @@
-Forked from techwithtim/LocalAIAgentWithRAG
-
 # The Great Debate: Humanism vs AI
 
 This chatbot was created for a midterm assignment for **02.137DH Introduction to Digital Humanities (SUTD)**.
