@@ -52,6 +52,7 @@ git clone <repository-url>
 cd <project-folder>
 
 ---
+```
 
 ## 2. Create a virtual environment
 
@@ -59,3 +60,25 @@ Create a Python virtual environment using Python 3.11.
 
 ```bash
 python3.11 -m venv venv
+
+```
+
+## For Mac/Linux
+```bash
+source venv/bin/activate
+```
+
+## For Windows
+```bash
+venv\Scripts\activate
+```
+
+## 3. Install all the credentials
+```bash
+pip install -r requirements.txt
+```
+
+## 4. Run Streamlit
+```bash
+Streamlit run app.py
+```
