@@ -48,10 +48,8 @@ The system combines retrieval augmented generation, speech recognition, and spee
 ## 1. Clone the repository
 
 ```bash
-git clone <repository-url>
 cd <project-folder>
-
----
+git clone <repository-url>
 ```
 
 ## 2. Create a virtual environment
